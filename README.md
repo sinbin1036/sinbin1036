@@ -1,4 +1,10 @@
 ## Hi there 👋
+<div>
+  <img src="https://github.com/user-attachments/assets/2ac0f4da-bec2-4b8b-a236-003940668083" />
+</div>
+
+
+
 
 <!--
 **sinbin1036/sinbin1036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
