@@ -11,3 +11,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/14a58d5a-35fe-4b40-9639-546c003f5e75" / >
 </div>
+
+<h2 align="center">📝 my grade 📝</h2>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5286e4a9-1b80-47d5-bf38-049a55380d8a" / >
+</div>
