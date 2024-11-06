@@ -14,5 +14,5 @@
 
 <h2 align="center">📝 my grade 📝</h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dd272c6d-6f87-40cb-b22a-b3c20a664793" / >
+  <img src="https://github.com/user-attachments/assets/5f39a006-8d4d-48cb-bf02-976dbe2e2236" / >
 </div>
