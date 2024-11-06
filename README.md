@@ -1,4 +1,3 @@
-## Hi there 👋
 <div>
   <img src="https://github.com/user-attachments/assets/33b7121e-1849-44f6-acb5-180e3b1436c1" />
 </div>
