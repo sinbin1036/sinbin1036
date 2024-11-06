@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/3358aa27-06bd-4bd5-b5f1-6c6bd0b4bc21" />
 </div>
 
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
 
 
 
