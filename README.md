@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-  <img src="https://github.com/user-attachments/assets/2ac0f4da-bec2-4b8b-a236-003940668083" />
+  <img src="https://github.com/user-attachments/assets/33b7121e-1849-44f6-acb5-180e3b1436c1" />
 </div>
 
 
