@@ -3,11 +3,11 @@
 </div>
 
 <h2 align="center">📟tech stack📟</h2>
-<div>
-  <img src="https://github.com/user-attachments/assets/1a8e9eac-6f6c-4bd5-9345-682cedb6239a" / >
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e7f25217-012e-4b7f-8a5d-f171745d0e7e" / >
 </div>
 
 <h2 align="center">📚 Studying 📚</h2>
-<div>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/14a58d5a-35fe-4b40-9639-546c003f5e75" / >
 </div>
