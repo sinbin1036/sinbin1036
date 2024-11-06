@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/3358aa27-06bd-4bd5-b5f1-6c6bd0b4bc21" />
 </div>
 
-# 내 바램
+# 현 상태
 <div>
   <img src="https://github.com/user-attachments/assets/e28f917a-c46d-4763-a76a-40db638dd25a" / >
 </div>
