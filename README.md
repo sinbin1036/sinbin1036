@@ -4,6 +4,13 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Java+%26+Spring+Boot;Building+practical+software+products;AI+%C2%B7+Mobile+%C2%B7+Real-world+projects)](https://git.io/typing-svg)
+
+<a href="mailto:sinbin020617@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=sinbin1036&style=flat-square&color=3B82F6&label=Profile+Views" />
+
+</div>
+
 ## 👋 About Me
 
 - ☕ Backend development with **Java & Spring Boot**
@@ -78,8 +85,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinbin1036&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinbin1036&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-3wnc2sr1b-bro1036s-projects.vercel.app/api?username=sinbin1036&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-3wnc2sr1b-bro1036s-projects.vercel.app/api/top-langs/?username=sinbin1036&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sinbin1036&theme=tokyonight&hide_border=true" height="165" />
 </div>
